@@ -1,0 +1,9 @@
+/* MENU PAGE BACKGROUND */
+body.menu-bg {
+    margin: 0;
+    padding: 0;
+    background: url("../images/menu.jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
